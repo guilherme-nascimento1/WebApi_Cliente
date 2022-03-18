@@ -22,7 +22,7 @@ Certifique-se que você:
 ## Nessa Imagem, estou adicionando um novo cliente com o método POST.
 ![WhatsApp Image 2022-03-17 at 23 18 35](https://user-images.githubusercontent.com/39226507/158998150-f3bd60fd-7d74-4a85-9381-7f7db2956cf4.jpeg)
 
-Para fazer uma criação de um novo cliente, a API pede os seguintes requisitos:
+## Para fazer uma criação de um novo cliente, a API pede os seguintes requisitos:
 
             Nome = nome; 
             DataNascimento = dataNascimento;
