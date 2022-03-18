@@ -22,6 +22,19 @@ Certifique-se que você:
 ## Nessa Imagem, estou adicionando um novo cliente com o método POST.
 ![WhatsApp Image 2022-03-17 at 23 18 35](https://user-images.githubusercontent.com/39226507/158998150-f3bd60fd-7d74-4a85-9381-7f7db2956cf4.jpeg)
 
+Para fazer uma criação de um novo cliente, a API pede os seguintes requisitos:
+
+            Nome = nome; 
+            DataNascimento = dataNascimento;
+            Telefone = telefone;
+            Celular = celular;            
+            Endereco = endereco;
+            Cidade = cidade;
+            RedesSociais = redeSocial;
+            CPF = cpf;
+            RG = rg;
+ 
+
 ## Logo depois, temos os mesmos dados sendo inseridos em nosso banco de dados MongoDB
 ![WhatsApp Image 2022-03-18 at 08 35 14](https://user-images.githubusercontent.com/39226507/158998184-66deb8bd-ab8e-476e-b597-0416295e9c0c.jpeg)
 
