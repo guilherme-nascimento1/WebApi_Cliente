@@ -9,6 +9,8 @@ Você vai conseguir baixar o projeto e realizar os testes em sua máquina.
 Realizei a construção da API com o C# e MongoDb para armazenar os dados do PUT da nosssa API.
 
 ## Antes de começar:
+Pegue o link do projeto e coloca o seguinte comando em seu terminal.
+git clone https://github.com/guilherme-nascimento1/WebApi_Cliente.git
 
 Certifique-se que você:
 
