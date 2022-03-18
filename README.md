@@ -8,6 +8,14 @@ Você vai conseguir baixar o projeto e realizar os testes em sua máquina.
 
 Realizei a construção da API com o C# e MongoDb para armazenar os dados do PUT da nosssa API.
 
+## Antes de começar:
+
+Certifique-se que você:
+
+<li>Tenha o Visual Studio instalado | https://visualstudio.microsoft.com/pt-br/downloads/ </li>
+<li>Tenha o Mongodb instalado | https://www.mongodb.com/try/download/community</li>
+
+
 ## Aqui temos nossa API, com os métodos CRUD. 
 ![WhatsApp Image 2022-03-17 at 23 17 50](https://user-images.githubusercontent.com/39226507/158925782-16e355f8-6351-42eb-bc71-ca7b7e5f7cc5.jpeg)
 
