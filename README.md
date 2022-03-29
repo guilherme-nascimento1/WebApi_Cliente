@@ -2,7 +2,7 @@
 
 
 
-Olá! Eu sou o Guilherme Nascimento. Criei essa API para o Desafio Técnico para Engenheiro de Software. 
+Olá! Eu sou o Guilherme Nascimento. Criei essa API para demonstrar meus conhecimentos para Engenheiro de Software. 
 
 Você vai conseguir baixar o projeto e realizar os testes em sua máquina.
 
